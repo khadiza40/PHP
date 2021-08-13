@@ -1,0 +1,2 @@
+<!-- comparismOparetor.php -->
+<!-- == ,=== (data type), !=, !==, >,<, <=, >=,  -->
